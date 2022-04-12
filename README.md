@@ -16,3 +16,6 @@ Botun bannerindakı logo lisanslıdır izinsiz kullanmayın.
 # Botu youtubede yayınlamak istiyorum nasıl yapabilirim?
 
 Botun yapımcıları ile iletişime geçin.
+
+
+Dosyalar yakında paylaşılacak.
