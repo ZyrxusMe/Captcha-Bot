@@ -21,7 +21,7 @@ Botun yapımcıları ile iletişime geçin.
 Yapımcılar: <br>
 [LOX | Weasley#2429] https://discord.com/users/576367632752705546 <br>
 [LOX | UmuTRexe#4890] https://discord.com/users/487690544361766912 <br>
-<img src="https://avatars.githubusercontent.com/u/57047947?v=4" alt="Stargazers repo roster for @Zyrxus11/Captcha-Bot" data-canonical-src="https://reporoster.com/Zyrxus11/Captcha-Bot" style="max-width: 100%;">
+<img src="https://avatars.githubusercontent.com/u/57047947?v=4" alt="Stargazers repo roster for @Zyrxus11/Captcha-Bot" data-canonical-src="https://reporoster.com/Zyrxus11/Captcha-Bot" style="max-width: 20%;">
 
 
 Fotograflar: <br>
