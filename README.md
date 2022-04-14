@@ -20,4 +20,6 @@ Botun yapımcıları ile iletişime geçin.
 
 Yapımcılar: <br>
 [LOX | Weasley#2429] https://discord.com/users/576367632752705546 <br>
-[LOX | UmuTRexe#4890] https://discord.com/users/487690544361766912 
+[LOX | UmuTRexe#4890] https://discord.com/users/487690544361766912 <br>
+
+![](https://cdn.discordapp.com/attachments/963171575270613082/963376746135187466/codeeee.png)
