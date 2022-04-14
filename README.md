@@ -19,5 +19,5 @@ Botun yapımcıları ile iletişime geçin.
 
 
 Yapımcılar: <br>
-![LOX | Weasley#2429] https://discord.com/users/576367632752705546 <br>
-![LOX | UmuTRexe#4890] https://discord.com/users/487690544361766912 
+[LOX | Weasley#2429] https://discord.com/users/576367632752705546 <br>
+[LOX | UmuTRexe#4890] https://discord.com/users/487690544361766912 
