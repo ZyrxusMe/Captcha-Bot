@@ -18,5 +18,6 @@ Botun bannerindakı logo lisanslıdır izinsiz kullanmayın.
 Botun yapımcıları ile iletişime geçin.
 
 
-Yapımcılar: \n
+Yapımcılar: <br>
 ![LOX | Weasley#2429](https://discord.com/users/576367632752705546) 
+![LOX | UmuTRexe#4890](https://discord.com/users/487690544361766912) 
