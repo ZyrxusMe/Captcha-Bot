@@ -4,7 +4,7 @@ client = new Discord.Client({partials: ["MESSAGE", "USER", "REACTION"]});
 const { createCanvas, loadImage } = require('canvas')
 const  db  =  new  Database('database.json')
 const  codes  =  new  Database('codes.json')
-const  userverifyed  =  new  Database('verifyed.json')
+const  userverifyed  =  new  Database('verified.json')
 
 module.exports.run = async (client, message, args) => {
   let sebep = args[0]
