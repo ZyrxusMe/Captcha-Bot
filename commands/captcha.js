@@ -13,7 +13,12 @@ module.exports.run = async (client, message, args) => {
     .setTitle('Error Choose an option!!')
     .setColor('RED')
     .setDescription(`
-channel (Optional) | message (Optional) | verify | get-code | verified-role (Optional)
+
+Admin
+channel (Optional) | message (Optional) | verified-role (Optional)
+
+User
+verify | get-code 
 
 `)
     .setImage('https://cdn.discordapp.com/attachments/915179207938674689/993881848667197440/unknown.png')
