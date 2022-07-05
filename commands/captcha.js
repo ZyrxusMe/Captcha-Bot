@@ -13,10 +13,10 @@ module.exports.run = async (client, message, args) => {
     .setTitle('Error Choose an option!!')
     .setColor('RED')
     .setDescription(`
-channel | log | message | verify | get-code | verified-role
+channel (Optional) | message (Optional) | verify | get-code | verified-role (Optional)
 
 `)
-    .setImage('https://cdn.discordapp.com/attachments/962346241432375337/963168692902957116/unknown.png')
+    .setImage('https://cdn.discordapp.com/attachments/915179207938674689/993881848667197440/unknown.png')
    if(!sebep) return message.channel.send(`${message.author}`, pong)
                 if (args[0] == "verified-role"  || args[0] == "doğrulanmış-rol") {
 
@@ -257,10 +257,11 @@ ctx.fillText(hersey, 200, 200)
                 
         codes.push(`code_${message.author.id}`,hersey) 
 
-                const attachment = new Discord.MessageAttachment(canvas.toBuffer()); 
-
+const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'code.png'); 
                 const codesendembed = new Discord.MessageEmbed()
                 .setTitle('Verification')
+                                                    .attachFiles(attachment)
+                .setImage('attachment://code.png')
                 .setColor('GREEN')
                 .setDescription(`
 Welcome! Enter the code above and verify yourself!! ${message.author}
@@ -268,10 +269,8 @@ Welcome! Enter the code above and verify yourself!! ${message.author}
 .captcha verify **code**
 
 `)
-                                    .attachFiles(attachment)
 
                 message.channel.send(`${message.author}`, codesendembed)
-                
             }
             if (args[0] == "verify"  || args[0] == "doğrulan") {
                 let sebep = args.slice(1).join(" ")
@@ -296,10 +295,9 @@ Welcome to ${message.guild.name} server!
     userverifyed.set(`verfiyed_${message.author.id}.${message.guild.id}`, `Yes`)
     
     
-    message.guild.members.cache.get(message.author.id).roles.add(role);
-                message.channel.send(`${message.author}`, codesendembeda)
-  
- 
+    message.guild.members.cache.get(message.author.id).roles.add(role).catch(err =>message.channel.send(`An Error has occurred: The role could not be assigned!`));
+               message.channel.send(`${message.author}`, codesendembeda)
+
 
 }
             }
