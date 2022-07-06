@@ -1,6 +1,11 @@
 # Discord.JS V12 Captcha Tamamen İngilizce Altyapı!
 
-Bu botun Telif Hakları UmuTRexe ve Zyrxus11'e aittir. Herhangi bir çalınma , videosunda kendi altyapısıymış gibi altyapıyı paylaşmak yasaktır. Yapan kişilere Yasal işlem başlatılacaktır!
+Bu botun Telif Hakları UmuTRexe ve Zyrxus11'e aittir. Herhangi bir çalınma , videosunda kendi altyapısıymış gibi altyapıyı paylaşmak yasaktır. Yapan kişilere Yasal işlem başlatılacaktır! <br>
+
+Original Bot <br>
+Captcha#9057 (993875438726299709) <br>
+[Top.gg](https://top.gg/bot/993875438726299709)
+
 
 ### İşinize yarayabilecek bazı dökümanlar =>
 https://discord.js.org/<br>
