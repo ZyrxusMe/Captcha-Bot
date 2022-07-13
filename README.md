@@ -1,4 +1,6 @@
 # Discord.JS V12 Captcha Tamamen İngilizce Altyapı!
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FZyrxus11%2FCaptcha-Bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FZyrxus11%2FCaptcha-Bot?ref=badge_shield)
+
 
 Bu botun Telif Hakları UmuTRexe ve Zyrxus11'e aittir. Herhangi bir çalınma , videosunda kendi altyapısıymış gibi altyapıyı paylaşmak yasaktır. Yapan kişilere Yasal işlem başlatılacaktır! <br>
 
@@ -35,3 +37,7 @@ Fotograflar: <br>
 <br><br>
 
 ![](https://cdn.discordapp.com/attachments/963171575270613082/963376746135187466/codeeee.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FZyrxus11%2FCaptcha-Bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FZyrxus11%2FCaptcha-Bot?ref=badge_large)
